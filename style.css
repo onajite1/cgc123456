@@ -89,7 +89,7 @@ color: white;
 }
 }
 
-@media (max-width: 745px) and (orientation : landscape){
+@media (max-width: 745px) and (orientation : portrait){
 	body {
 
 width: auto;
@@ -118,7 +118,7 @@ float: left;
 
 .section3 {
 background-color: black;
-width: auto;
+width: ;
 height: 600px;
 float: left;
 color: white;
