@@ -45,7 +45,7 @@ p {
 }
 
 
-@media (max-width: 414px) {
+@media (max-width: 414px) and (orientation : portrait){
 	body {
 
 width: auto;
@@ -89,7 +89,7 @@ color: white;
 }
 }
 
-@media (max-width: 745px) {
+@media (max-width: 745px) and (orientation : landscape){
 	body {
 
 width: auto;
@@ -138,7 +138,7 @@ p {
 }
 
 
-@media (max-width: 1200px) {
+@media (max-width: 1200px) and (orientation : landscape){
 	body {
 
 width: auto;
