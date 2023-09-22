@@ -40,6 +40,10 @@ color: white;
 
 }
 
+p {
+	font-size: 14px;
+}
+
 
 @media (max-width: 414px) {
 	body {
@@ -127,6 +131,10 @@ color: white;
 	display: inline;
 
 }
+
+p {
+	font-size: 14px;
+}
 }
 
 
@@ -171,5 +179,9 @@ color: white;
 	border-radius: 20px;
 	display: inline;
 
+}
+
+p {
+	font-size: 14px;
 }
 }
